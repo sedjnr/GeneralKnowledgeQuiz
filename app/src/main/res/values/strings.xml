@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GeneralKnowledgeQuiz</string>
+    <string name="title_activity_question1">Question1</string>
+
+    <string name="Q1">What country voted to leave the European Union in 2016?</string>
+    <string name="Q2">Who is the current president of the United States of America?</string>
+    <string name="Q3">How many times people does Wembley Stadium house?</string>
+    <string name="Q4">The first world war ended in 1904, true or false?</string>
+    <string name="Q5">Click the object which is the most expensive.</string>
+</resources>
